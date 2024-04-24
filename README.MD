@@ -1,6 +1,6 @@
 # Chrome Dino Game
 
-![Preview](/preview.png)
+![Preview](/image.png)
 <br>
 <br>
 
